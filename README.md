@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FabrazJ
 - 👀 I’m interested in different lenguages
-- 🌱 22 years
 - What do you see?
 
 <!---
